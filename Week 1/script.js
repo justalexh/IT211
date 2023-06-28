@@ -1,8 +1,8 @@
 //JS Script for description of myself.
     const firstName = "Alex";
     const lastName = "Huynh";
-    const yearsOfStudy = 0;
-    const goal = "pursue a career in backend development or a techincal project manager role";
+    let yearsOfStudy = 0;
+    let goal = "pursue a career in backend development or a techincal project manager role";
 
 //Use write() to add inline instead of writeIn()
     document.write("My name is " + firstName + " " + lastName + ". ");
