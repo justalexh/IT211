@@ -1,4 +1,4 @@
-//JS Script for description of myself.
+//JS Script for description of myself. 
     const firstName = "Alex";
     const lastName = "Huynh";
     let yearsOfStudy = "3 months";
