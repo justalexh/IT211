@@ -1,3 +1,30 @@
+/*
+  Pig Latin Translator
+  Alexander Huynh
+  07-07-2023
+
+  -Define translateToPigLatin function
+  -Define all variables 
+  Give input text from the user:
+    Check whether inputText is empty
+    -Display "Warning: Add a word to translate!"
+    -Return
+
+    Create an empty array translatedWords to store the translated words
+
+    For each word in words:
+      if first letter of word is included in vowels:
+      add word + "way"
+      return the result
+      if it is a constant
+      add "ay" to it
+      return the result
+
+      display translatedText as the output
+
+*/
+
+
 // Declare variables and vowels
 const inputElement = document.getElementById("inputText");
 const outputElement = document.getElementById("outputText");
