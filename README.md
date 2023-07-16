@@ -7,4 +7,4 @@ The beginning of my assignments related to IT211.
 
 [week2](https://justalexh.github.io/IT211/week2/index.html)
 
-[week2](https://justalexh.github.io/IT211/week3/index.html)
+[week3](https://justalexh.github.io/IT211/week3/index.html)
