@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f7f7f7;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .student-list {
+    list-style: none;
+    padding: 0;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .student-list li {
+    margin-bottom: 10px;
+  }
+
+  .student-name {
+    font-weight: bold;
+  }
+
+  .student-score {
+    margin-left: 10px;
+  }
+
+  .statistics {
+    margin-top: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
