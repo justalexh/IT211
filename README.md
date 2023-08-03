@@ -13,4 +13,7 @@ The beginning of my assignments related to IT211.
 
 [week5](https://justalexh.github.io/IT211/week5/index.html)
 
+[week6](https://justalexh.github.io/IT211/week6/index.html)
+
+
 
